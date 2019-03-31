@@ -6,6 +6,10 @@
 
  - kondoyuko
 
+### About
+
+詳細を知りたい場合は、[こちら](/about.html)をご覧ください。
+
 ### Links
 
  - Twitter: [@kondoyuko](https://twitter.com/kondoyuko)
