@@ -8,7 +8,7 @@
 
 ### About
 
-詳細を知りたい場合は、[こちら](/sample-ghpages/about.html)をご覧ください。
+詳細を知りたい場合は、[こちら](/about.html)をご覧ください。
 
 ### Links
 
